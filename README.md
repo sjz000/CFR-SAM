@@ -67,6 +67,34 @@ datasets/
   monuseg_test_files.npy
 ```
 
+## Model Zoo
+
+### Stage 1 Prompt Learning
+
+| Dataset    | weight |
+|:-----------| :------ |
+| PanNuke123 | [GoogleDrive](https://drive.google.com/drive/folders/15LuKYCcXOFZa9nyiNWxiURqsIZe6-4B4?usp=drive_link) |
+| PanNuke213 | [GoogleDrive](https://drive.google.com/drive/folders/1DgHlSMjNCpnrPY80h5jrv0U6Jt8phhcw?usp=drive_link) |
+| PanNuke321 | [GoogleDrive](https://drive.google.com/drive/folders/17ghLhBppLMwPEC4Zq5ueLIZIJ2dDhX65?usp=drive_link) |
+| CPM-17     | [GoogleDrive](https://drive.google.com/drive/folders/1vwo5DFORLsYxvJcDtE-sr91Ul3Rt_7y5?usp=drive_link) |
+| MoNuSeg    | [GoogleDrive](https://drive.google.com/drive/folders/1lH1d9OMGkBGddH7HdjV5WoRODEd2S-ZP?usp=drive_link) |
+
+### Stage 2 SAM Adaptation
+
+|Dataset     | weight(Ours-H)                                                                                                                                                        |
+|:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| PanNuke123 | [GoogleDrive](https://drive.google.com/drive/folders/1UtO1p6EQ3xN78ixEOu5kj22Q1bEwjrX4?usp=drive_link)                                                                |
+| PanNuke213 | [GoogleDrive](https://drive.google.com/drive/folders/14kDPR8Tt821Cjv2IEPUYv1t7Y84JJ4m-?usp=drive_link)                                                                                                                                                       |
+| PanNuke321 | [GoogleDrive](https://drive.google.com/drive/folders/1qFjCczm1plsfASr5Q7g_0fFCVcNIw4bf?usp=drive_link)                                                                                                                            |
+| CPM-17     | [GoogleDrive](https://drive.google.com/drive/folders/1g-6aH5AxREpyxoZnnj6RVMkFa98v7axA?usp=drive_link)                                                                |
+| MoNuSeg    | [GoogleDrive](https://drive.google.com/drive/folders/1QJnZzDDgRwFKxaCti10NfR_EBJaHWjUa?usp=drive_link)                                                                |
+
+|Dataset     | weight(Ours-B)                             |
+|:-------------------|:-------------------------------------------|
+| PanNuke123 | [GoogleDrive](https://drive.google.com/drive/folders/1WWdat3kNSa-UUfIBhkaZb2Bcw_SfD-45?usp=drive_link) |
+| PanNuke213 | [GoogleDrive](https://drive.google.com/drive/folders/11nTFqLyuoomSru80abInamzxzs00GZR3?usp=drive_link) |
+| PanNuke321 | [GoogleDrive](https://drive.google.com/drive/folders/1aItkKgcyvc1DQc8uRDIoHsZ1d09PfzzS?usp=drive_link) |
+
 ## Training
 
 ### 1. Train the Stage 1
