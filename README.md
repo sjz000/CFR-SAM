@@ -28,11 +28,9 @@ thop
 
 ## Datasets
 
-This release is organized for:
-
-- PanNuke
-- CPM17
-- MoNuSeg
+- [PanNuke](https://warwick.ac.uk/fac/cross_fac/tia/data/pannuke/)
+- [CPM17](https://drive.google.com/drive/folders/1sJ4nmkif6j4s2FOGj8j6i_Ye7z9w0TfA?usp=drive_link)
+- [MoNuSeg](https://monuseg.grand-challenge.org/Data/)
 
 Prepare the data under `datasets/` before training. A typical layout is:
 
