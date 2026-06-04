@@ -7,7 +7,7 @@
 <sup>3</sup> College of Physics and Information Engineering, Fuzhou University, Fuzhou, China  
 <sup>&dagger;</sup> Corresponding authors
 
-🔥🔥[CFR-SAM](https://doi.org/10.1016/j.media.2026.104144) Published in Medical Image Analysis (MIA).  <br>
+🔥🔥[CFR-SAM Paper](https://doi.org/10.1016/j.media.2026.104144) Published in Medical Image Analysis (MIA).  <br>
 
 ## Requirements
 
